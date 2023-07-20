@@ -3,6 +3,7 @@ name: "My CodeQL config"
 queries:
   - uses: security-and-quality
 
+
 paths-ignore:
   - node_modules
   # Ignore our vendored yarn.js
